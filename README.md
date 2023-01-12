@@ -12,10 +12,8 @@ You're sections headers will be used to reference location of destination.
 ### Features
 - Face shape is classified into five classes Heart, oblong, round and square using AI
 - We used ensemble learning to combine three models ,2 CNN models and an inception V3 model.
-
-
-
 ---
+
 ### Demo
 ---
 ![](https://github.com/Sandra-Essa/Face_Shape_Classification_Using_AI/blob/main/Demo.png)
@@ -42,10 +40,9 @@ pip install PyQt5
 ```
 - Forth: 
 ```bash
-Download all files that exists here in the same folder:
-[Link](https://drive.google.com/drive/folders/1rkPjxBNiZ9uxYdAH3nrm_uDfuIcNkETN)
+Download all files (h) that exists here in the same folder:
+[](https://drive.google.com/drive/folders/1rkPjxBNiZ9uxYdAH3nrm_uDfuIcNkETN)
 ```
-
 - Fifth:
 ```bash
 Run main.py file
@@ -56,7 +53,8 @@ Browse an image by Clicking on FILE >> OPEN, then chosse the photo.
 
 The predected label and chossen image with landmark drown on it will appear on the window
 ```
-#### Please, note it is very impartant that all files in the link ubove are in the same folder when runing main.py
+#### Please, note it is very impartant that all files in the link above are in the same folder when runing main.py
+------------------
 
 ### Tools
 ----
