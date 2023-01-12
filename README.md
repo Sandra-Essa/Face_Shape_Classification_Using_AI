@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 ---
 ### Demo
 ---
-![](https://github.com/Sara-Habo/Face-shape-classification-GUI/blob/main/Demo.png)
+![](https://github.com/Sandra-Essa/Face_Shape_Classification_Using_AI/blob/main/Demo.png)
 ---
 ### Install
 ---
